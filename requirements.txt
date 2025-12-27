@@ -1,0 +1,15 @@
+
+---
+
+# ✅ ✅ requirements.txt
+
+> ✅ نسخة مضمونة تشتغل على Windows / CPU
+
+```txt
+gradio>=4.0.0
+torch
+transformers>=4.35.0
+sentencepiece
+sacremoses
+langdetect
+accelerate
